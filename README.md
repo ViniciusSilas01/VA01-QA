@@ -33,6 +33,7 @@ O objetivo é implementar uma **suíte de testes unitários automatizados** que 
 
 ## Estrutura do Projeto
 
+```
 validador-senhas/
 │
 ├── src/
@@ -46,6 +47,7 @@ validador-senhas/
 │
 ├── pom.xml
 └── README.md
+```
 
 ---
 

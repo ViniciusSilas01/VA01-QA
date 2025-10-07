@@ -1,8 +1,8 @@
-# VA01 - PDP
+## VA01 - PDP
 
 Repositório destinado a avaliação 01 da cadeira **Qualidade de Software - P5.**
 
-# Validador de Senhas Seguras
+## Validador de Senhas Seguras
 
 Projeto desenvolvido por [Vinicius Silas](https://www.linkedin.com/in/vinicius-silas-2260162a2/) 
 
@@ -85,7 +85,7 @@ Abra esse arquivo no navegador para visualizar a cobertura de código.
 
 ## Autor
 
-# Vinicius Silas
+## Vinicius Silas
 LinkedIn: https://www.linkedin.com/in/vinicius-silas-2260162a2/
 
 ## Licença

@@ -71,7 +71,7 @@ mvn jacoco:report
 
 O relatório será criado no caminho:
 
-target/site/jacoco/index.html
+**target/site/jacoco/index.html**
 
 Abra esse arquivo no navegador para visualizar a cobertura de código.
 

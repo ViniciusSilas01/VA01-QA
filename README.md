@@ -83,11 +83,6 @@ Abra esse arquivo no navegador para visualizar a cobertura de código.
 
 ---
 
-## Autor
-
-## Vinicius Silas
-LinkedIn: https://www.linkedin.com/in/vinicius-silas-2260162a2/
-
 ## Licença
 
 Este projeto é de uso educacional, desenvolvido para fins de avaliação acadêmica.
